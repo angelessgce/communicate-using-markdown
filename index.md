@@ -4,5 +4,4 @@
 
 ### And this, header 3
 
-
-This is a file where I wrote three headers to try the font.
+![Image of Hulatocat](https://octodex.github.com/images/hula_loop_octodex03.gif)
