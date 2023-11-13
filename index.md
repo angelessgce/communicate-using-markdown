@@ -10,3 +10,7 @@
 #this is a python code
 print ("Hello world!")
 ```
+
+- [x] Create task list
+- [x] edit file
+- [ ] finish the tutorial
